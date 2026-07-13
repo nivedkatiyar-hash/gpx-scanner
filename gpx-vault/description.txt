@@ -1,0 +1,2 @@
+### How this protects you
+If someone steals your laptop and copies `vault.json`, they cannot read your passwords. The data is scrambled. Furthermore, because we used a 16-byte random salt and hashed the key 100,000 times, it would take a hacker's supercomputer years to guess your master password via "brute force."
