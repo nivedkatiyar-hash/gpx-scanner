@@ -41,3 +41,9 @@ Bash
 gpx plugin install YOUR-USERNAME/gpx-admin
 gpx admin log "Acme Corp" 2.5 "Fixed database issues"
 gpx admin invoice "Acme Corp" 75 --bill
+------------------------------------------------
+🔍 gpx-search (Visual GUI)
+A sleek, non-blocking visual interface to search GitHub for new tools, view star counts, and instantly generate installation commands.
+Bash
+gpx plugin install YOUR-USERNAME/gpx-search
+gpx search
